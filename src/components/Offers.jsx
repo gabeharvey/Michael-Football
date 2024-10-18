@@ -72,7 +72,7 @@ function Offers() {
               <Text color="#000000" fontWeight="bold" fontFamily="'Bungee', sans-serif" fontSize="md">
                 {offer.schoolName}
               </Text>
-              <Text color="#000000" fontFamily="'Roboto+Condensed', system-ui" fontSize="md" fontWeight="semibold" mt={1}>
+              <Text color="#000000" fontFamily="'Titillium Web', sans-serif" fontSize="md" fontWeight="semibold" mt={1}>
                 {offer.description}
               </Text>
             </Box>

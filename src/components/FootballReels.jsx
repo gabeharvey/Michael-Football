@@ -34,7 +34,7 @@ function VideoCard({ videoSrc, title, description }) {
           <Text fontSize="lg" fontWeight="semibold" color="#000000" fontFamily="'Bungee', sans-serif">
             {title}
           </Text>
-          <Text mt={2} fontSize="lg" fontWeight="bold" color="#000000" fontFamily="'Roboto+Condensed', system-ui">
+          <Text mt={2} fontSize="lg" fontWeight="bold" color="#000000" fontFamily="'Titillium Web', sans-serif">
             {description}
           </Text>
         </Box>

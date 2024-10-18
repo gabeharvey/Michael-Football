@@ -69,7 +69,7 @@ function PlayerProfile() {
                 <Text color="#000000" fontWeight="bold" fontFamily="'Bungee', sans-serif" fontSize="lg">
                   {category.title}
                 </Text>
-                <Text color="#000000" fontFamily="'Roboto+Condensed', system-ui" fontSize="lg" fontWeight="semibold" mt={1}>
+                <Text color="#000000" fontFamily="'Titillium Web', sans-serif" fontSize="lg" fontWeight="semibold" mt={1}>
                   {category.description}
                 </Text>
               </Box>
