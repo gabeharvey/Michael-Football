@@ -53,7 +53,7 @@ function FootballReels() {
         {
           videoSrc: "michael-drill.MOV",
           title: "Michael's Agility Drill",
-          description: "Mastering Footwork and Speed",
+          description: "Mastering Footwork",
         },
         {
           videoSrc: "michael-pass.MOV",
