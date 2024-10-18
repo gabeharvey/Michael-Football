@@ -113,7 +113,7 @@ function StatTracker() {
           >
             Alamo Heights HS Stats
           </Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Carries: {averagesHS.carries}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rush Att: {averagesHS.carries}</Text>
           <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rush Yards: {averagesHS.rushingYards}</Text>
           <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rush TD: {averagesHS.rushingTDs}</Text>
           <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rec: {averagesHS.receptions}</Text>
@@ -139,7 +139,7 @@ function StatTracker() {
           >
             Elite Club Stats
           </Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Carries: {averagesTexasHardwork.carries}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Rush Att: {averagesTexasHardwork.carries}</Text>
           <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Rush Yards: {averagesTexasHardwork.rushingYards}</Text>
           <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">RushTDs: {averagesTexasHardwork.rushingTDs}</Text>
           <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Rec: {averagesTexasHardwork.receptions}</Text>
