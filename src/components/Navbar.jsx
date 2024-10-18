@@ -94,7 +94,7 @@ const Navbar = () => {
                         mb={isMobile ? 2 : 0}
                         style={{ cursor: 'pointer' }}
                     >
-                        Michael Terry III #2
+                        Michael Terry III
                     </Heading>
                 </Flex>
                 <Spacer />
