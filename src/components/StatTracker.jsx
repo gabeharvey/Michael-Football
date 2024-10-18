@@ -114,11 +114,11 @@ function StatTracker() {
             Alamo Heights HS Stats
           </Text>
           <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Carries: {averagesHS.carries}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rushing Yards: {averagesHS.rushingYards}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rushing TDs: {averagesHS.rushingTDs}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Receptions: {averagesHS.receptions}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Receiving Yards: {averagesHS.receivingYards}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Receiving TDs: {averagesHS.receivingTDs}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rush Yards: {averagesHS.rushingYards}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rush TD: {averagesHS.rushingTDs}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rec: {averagesHS.receptions}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rec Yards: {averagesHS.receivingYards}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif" >Rec TDs: {averagesHS.receivingTDs}</Text>
         </MotionBox>
 
         <MotionBox
@@ -140,11 +140,11 @@ function StatTracker() {
             Elite Club Stats
           </Text>
           <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Carries: {averagesTexasHardwork.carries}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Rushing Yards: {averagesTexasHardwork.rushingYards}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Rushing TDs: {averagesTexasHardwork.rushingTDs}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Receptions: {averagesTexasHardwork.receptions}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Receiving Yards: {averagesTexasHardwork.receivingYards}</Text>
-          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Receiving TDs: {averagesTexasHardwork.receivingTDs}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Rush Yards: {averagesTexasHardwork.rushingYards}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">RushTDs: {averagesTexasHardwork.rushingTDs}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Rec: {averagesTexasHardwork.receptions}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Rec Yards: {averagesTexasHardwork.receivingYards}</Text>
+          <Text color="#F8F8F8" fontFamily="'Titillium Web', sans-serif">Rec TDs: {averagesTexasHardwork.receivingTDs}</Text>
         </MotionBox>
       </Flex>
       <MotionBox
